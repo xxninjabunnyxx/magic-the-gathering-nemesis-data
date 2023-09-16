@@ -1,0 +1,111 @@
+---
+object: card
+id: 7717eeb9-c457-4a65-93a0-e91c7f6a1970
+oracle_id: 28479aa8-d1cd-421a-8bbb-0594bb4dd410
+multiverse_ids:
+- 22290
+mtgo_id: 13993
+mtgo_foil_id: 13994
+tcgplayer_id: 7153
+cardmarket_id: 11803
+name: Flame Rift
+lang: en
+released_at: '2000-02-14'
+uri: https://api.scryfall.com/cards/7717eeb9-c457-4a65-93a0-e91c7f6a1970
+scryfall_uri: https://scryfall.com/card/nem/80/flame-rift?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/7/7717eeb9-c457-4a65-93a0-e91c7f6a1970.jpg?1562630580
+  normal: https://cards.scryfall.io/normal/front/7/7/7717eeb9-c457-4a65-93a0-e91c7f6a1970.jpg?1562630580
+  large: https://cards.scryfall.io/large/front/7/7/7717eeb9-c457-4a65-93a0-e91c7f6a1970.jpg?1562630580
+  png: https://cards.scryfall.io/png/front/7/7/7717eeb9-c457-4a65-93a0-e91c7f6a1970.png?1562630580
+  art_crop: https://cards.scryfall.io/art_crop/front/7/7/7717eeb9-c457-4a65-93a0-e91c7f6a1970.jpg?1562630580
+  border_crop: https://cards.scryfall.io/border_crop/front/7/7/7717eeb9-c457-4a65-93a0-e91c7f6a1970.jpg?1562630580
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Flame Rift deals 4 damage to each player.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: fa5d1fdb-f781-473d-b14d-50396d40d43f
+set: nem
+set_name: Nemesis
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/fa5d1fdb-f781-473d-b14d-50396d40d43f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Anem&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/nem?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7717eeb9-c457-4a65-93a0-e91c7f6a1970/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A28479aa8-d1cd-421a-8bbb-0594bb4dd410&unique=prints
+collector_number: '80'
+digital: false
+rarity: common
+flavor_text: Crovax hungered for power, and the stronghold devoured the sky.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ben Thompson
+artist_ids:
+- f3116c88-57f4-4fd1-95f3-cfd163977661
+illustration_id: 696f4b1c-0d89-4e3b-b8dc-6f1705453d86
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3815
+penny_rank: 583
+prices:
+  usd: '0.36'
+  usd_foil: '13.99'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '12.60'
+  tix: '0.07'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22290
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Flame+Rift&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Flame+Rift&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Flame+Rift
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/7153?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Flame+Rift&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/13993?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
